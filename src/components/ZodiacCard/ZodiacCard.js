@@ -1,4 +1,4 @@
-import './zodiac-card.css'
+import './ZodiacCard.css'
 
 export default function ZodiacCard({ name, dates }) {
   return (
