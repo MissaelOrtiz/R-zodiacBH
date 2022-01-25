@@ -7,10 +7,9 @@ import { zodiac } from '../../data.js'
 
 function App() {
   return (
-    <h1>Header</h1>
     <div className="App">
       <Header />
-      <Main items={zodiac}/>
+      <Main items={zodiac} />
       <Footer />
     </div>
   )
